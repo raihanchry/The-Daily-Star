@@ -29,6 +29,8 @@
   padding: 37px 240px 50px 16px;
   margin: 54px;
   display: inline;
+  align-items: center;
+
 }
 nav {
   border: 5px rgb(253, 34, 34);
@@ -59,8 +61,8 @@ main {
   /* width: 100%; */
 }
 footer {
-  padding: 10px;
-  margin: 5px 0px 0px 0px;
+  padding: 20px 40px 20px 40px;
+  /* margin: 5px 0px 0px 0px; */
   color: white;
   background-color: black;
 }
