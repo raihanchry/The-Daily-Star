@@ -1,5 +1,5 @@
 * {
-  padding: 0;
+  padding: 0px 10px 0px 10px;
   margin: 0;
 }
 .add {
@@ -36,8 +36,9 @@ ul li {
   border-radius: 2px;
 }
 .container {
-  background-color: aqua;
+  background-color: rgb(204, 226, 226);
   height: 700px;
+  width: 100%;
 }
 footer {
   padding: 10px;
