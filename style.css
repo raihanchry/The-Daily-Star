@@ -20,6 +20,15 @@
   justify-content: start;
   align-items: center;
   text-align: center;
+  display: flex;
+  list-style-type: none;
+}
+.top-box{
+  background-color: blue;
+  padding: 50px;
+  margin: 50px;
+  align-items: center center;
+  display: inline;
 }
 nav {
   border: 5px rgb(253, 34, 34);
